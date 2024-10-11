@@ -63,3 +63,4 @@ const SilentBaseAvatar = {
     }
 };
 
+window.SilentBaseAvatar = SilentBaseAvatar;
